@@ -5,7 +5,7 @@ material link: https://bootlin.com/doc/training/embedded-linux-qemu/embedded-lin
 ## Building a cross-compiling toolchain
  - After this lab, you will be able to:
    - Configure the crosstool-ng tool
-   - Xecute crosstool-ng and build up your own cross-compiling toolchain
+   - execute crosstool-ng and build up your own cross-compiling toolchain
   
   ### What is toolchain
     - a toolchain is a set of programming tools that are used to perform a complex software development task or to create a software product
